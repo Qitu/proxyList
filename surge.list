@@ -28,6 +28,22 @@ DOMAIN,desktop.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,oaiusercontent.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,files.oaiusercontent.com ,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 
+# ========== Claude / anthropic ==========
+DOMAIN-SUFFIX,claude.ai,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,anthropic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,platform.claude.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,api.anthropic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,statsig.anthropic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,cdn.usefathom.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,intercomcdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,github.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,npmjs.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,npmjs.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,registry.npmjs.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,pypi.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,pythonhosted.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,files.pythonhosted.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+
 # ========== Statsig / Feature Gates ==========
 DOMAIN-SUFFIX,statsig.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
 DOMAIN-SUFFIX,statsigapi.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
