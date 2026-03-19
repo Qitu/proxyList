@@ -6,79 +6,79 @@ DOMAIN-SUFFIX,linux.do,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,cursor.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 #ChatGPT
-DOMAIN-SUFFIX,chatgpt.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,oaistatic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-KEYWORD,openai,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-KEYWORD,chatgpt,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,chatgpt.com,✨ AI�
+DOMAIN-SUFFIX,openai.com,✨ AI�
+DOMAIN-SUFFIX,oaistatic.com,✨ AI�
+DOMAIN-KEYWORD,openai,✨ AI�
+DOMAIN-KEYWORD,chatgpt,✨ AI�
 
 # Wechat
 DOMAIN-SUFFIX,qlogo.cn,DIRECT
 DOMAIN-SUFFIX,qpic.cn,DIRECT
 
 # ========== ChatGPT / OpenAI ==========
-DOMAIN,auth0.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,auth.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,setup.auth.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,tcr9i.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,ios.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,android.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,desktop.chat.openai.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,oaiusercontent.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,files.oaiusercontent.com ,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,auth0.openai.com,✨ AI�
+DOMAIN-SUFFIX,auth.openai.com,✨ AI�
+DOMAIN,setup.auth.openai.com,✨ AI�
+DOMAIN,chat.openai.com,✨ AI�
+DOMAIN,tcr9i.chat.openai.com,✨ AI�
+DOMAIN,ios.chat.openai.com,✨ AI�
+DOMAIN,android.chat.openai.com,✨ AI�
+DOMAIN,desktop.chat.openai.com,✨ AI�
+DOMAIN-SUFFIX,oaiusercontent.com,✨ AI�
+DOMAIN-SUFFIX,files.oaiusercontent.com ,✨ AI�
 
 # ========== Claude / anthropic ==========
-DOMAIN-SUFFIX,claude.ai,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,anthropic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,platform.claude.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,api.anthropic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,statsig.anthropic.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,cdn.usefathom.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,intercomcdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,github.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,npmjs.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,npmjs.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,registry.npmjs.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,pypi.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,pythonhosted.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,files.pythonhosted.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,claude.ai,✨ AI�
+DOMAIN-SUFFIX,anthropic.com,✨ AI�
+DOMAIN-SUFFIX,platform.claude.com,✨ AI�
+DOMAIN-SUFFIX,api.anthropic.com,✨ AI�
+DOMAIN-SUFFIX,statsig.anthropic.com,✨ AI�
+DOMAIN,cdn.usefathom.com,✨ AI�
+DOMAIN-SUFFIX,intercomcdn.com,✨ AI�
+DOMAIN-SUFFIX,github.com,✨ AI�
+DOMAIN-SUFFIX,npmjs.com,✨ AI�
+DOMAIN-SUFFIX,npmjs.org,✨ AI�
+DOMAIN-SUFFIX,registry.npmjs.org,✨ AI�
+DOMAIN-SUFFIX,pypi.org,✨ AI�
+DOMAIN-SUFFIX,pythonhosted.org,✨ AI�
+DOMAIN-SUFFIX,files.pythonhosted.org,✨ AI�
 
 # ========== Statsig / Feature Gates ==========
-DOMAIN-SUFFIX,statsig.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,statsigapi.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,events.statsigapi.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,featuregates.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,prodregistryv2.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,featureassets.org,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,statsig.com,✨ AI�
+DOMAIN-SUFFIX,statsigapi.net,✨ AI�
+DOMAIN,events.statsigapi.net,✨ AI�
+DOMAIN-SUFFIX,featuregates.org,✨ AI�
+DOMAIN,prodregistryv2.org,✨ AI�
+DOMAIN,featureassets.org,✨ AI�
 
 # ========== Intercom ==========
-DOMAIN-SUFFIX,intercomcdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,js.intercomcdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,intercom.io,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,intercomcdn.com,✨ AI�
+DOMAIN,js.intercomcdn.com,✨ AI�
+DOMAIN-SUFFIX,intercom.io,✨ AI�
 
 # ========== Stripe ==========
-DOMAIN,js.stripe.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,js.stripe.com,✨ AI�
 
 # ========== Cloudflare / Telemetry ==========
-DOMAIN,challenges.cloudflare.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,rum.browser-intake-datadoghq.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,o33249.ingest.sentry.io,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,o207216.ingest.sentry.io,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,challenges.cloudflare.com,✨ AI�
+DOMAIN,rum.browser-intake-datadoghq.com,✨ AI�
+DOMAIN,o33249.ingest.sentry.io,✨ AI�
+DOMAIN,o207216.ingest.sentry.io,✨ AI�
 
 # ========== WorkOS / LaunchDarkly ==========
-DOMAIN,setup.workos.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,forwarder.workos.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,cdn.workos.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,workos.imgix.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,images.workoscdn.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,events.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,clientstream.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN,app.launchdarkly.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN,setup.workos.com,✨ AI�
+DOMAIN,forwarder.workos.com,✨ AI�
+DOMAIN,cdn.workos.com,✨ AI�
+DOMAIN,workos.imgix.net,✨ AI�
+DOMAIN,images.workoscdn.com,✨ AI�
+DOMAIN-SUFFIX,launchdarkly.com,✨ AI�
+DOMAIN,events.launchdarkly.com,✨ AI�
+DOMAIN,clientstream.launchdarkly.com,✨ AI�
+DOMAIN,app.launchdarkly.com,✨ AI�
 
 # ========== SendGrid ==========
-DOMAIN-SUFFIX,ct.sendgrid.net,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,ct.sendgrid.net,✨ AI�
 
 #  ========== 强制让 ChatGPT 的统计请求超时，防止死循环 ==========
 DOMAIN-SUFFIX, google-analytics.com, REJECT-DROP
@@ -89,9 +89,9 @@ DOMAIN-SUFFIX,nepoapi.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,okx.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 # Apple AI
-DOMAIN-SUFFIX,apple-relay.apple.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
-DOMAIN-KEYWORD,apple-relay,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻
+DOMAIN-SUFFIX,apple-relay.apple.com,✨ AI�
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,✨ AI�
+DOMAIN-KEYWORD,apple-relay,✨ AI�
 # --- Apple Intelligence / Siri / 搜索（官方文档列出的必须直连的主机名，改为走 PROXY 以便换区）---
 # Siri & Dictation
 DOMAIN,guzzoni.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
