@@ -66,6 +66,14 @@ DOMAIN,rum.browser-intake-datadoghq.com,✨ AI
 DOMAIN,o33249.ingest.sentry.io,✨ AI
 DOMAIN,o207216.ingest.sentry.io,✨ AI
 
+# ========== notion ==========
+DOMAIN-SUFFIX,notion.so,DIRECT
+DOMAIN-SUFFIX,notion.com,DIRECT
+DOMAIN-SUFFIX,notionusercontent.com,DIRECT
+DOMAIN-SUFFIX,notion-static.com,DIRECT
+PROCESS-NAME,Notion,DIRECT
+PROCESS-NAME,Notion Helper,DIRECT
+
 # ========== WorkOS / LaunchDarkly ==========
 DOMAIN,setup.workos.com,✨ AI
 DOMAIN,forwarder.workos.com,✨ AI
