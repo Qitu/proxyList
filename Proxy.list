@@ -1,2 +1,13 @@
 
 DOMAIN-SUFFIX,nodeseek.com
+
+
+
+# Cloudflare Tunnel / cloudflared 必须走代理，不能 DIRECT
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+
+# 本机测试 Device MCP 公网域名也走代理，避免 198.18 fake-ip 直连失败
+DOMAIN,device-mcp.e1ec.com
