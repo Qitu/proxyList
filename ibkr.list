@@ -1,0 +1,31 @@
+===== IBKR DIRECT =====
+
+DOMAIN-SUFFIX,ibkr.com.cn,DIRECT
+DOMAIN-SUFFIX,ibllc.com.cn,DIRECT
+
+===== IBKR =====
+
+DOMAIN-SUFFIX,ibkr.com,TRADING
+DOMAIN-SUFFIX,ibllc.com,TRADING
+DOMAIN-SUFFIX,ibkr.com.hk,TRADING
+DOMAIN-SUFFIX,ibkr.com.au,TRADING
+DOMAIN-SUFFIX,ibcdn.com,TRADING
+DOMAIN-SUFFIX,iblink.com,TRADING
+DOMAIN-SUFFIX,interactivebrokers.com,TRADING
+DOMAIN-SUFFIX,interactivebrokers.com.hk,TRADING
+DOMAIN-SUFFIX,interactivebrokers.ca,TRADING
+DOMAIN-SUFFIX,interactivebrokers.ie,TRADING
+DOMAIN-SUFFIX,interactivebrokers.co.uk,TRADING
+DOMAIN-SUFFIX,interactivebrokers.co.in,TRADING
+DOMAIN-SUFFIX,interactivebrokers.co.in,TRADING
+DOMAIN-SUFFIX,interactivebrokers.com.sg,TRADING
+DOMAIN-SUFFIX,interactivebrokers.com.au,TRADING
+DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com,TRADING
+DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com,TRADING
+
+===== TOS =====
+
+DOMAIN-SUFFIX,thinkorswim.com,TRADING
+DOMAIN-SUFFIX,tdameritrade.com,TRADING
+DOMAIN-SUFFIX,schwab.com,TRADING
+HOST,tosmediaserver.schwab.com,TRADING
