@@ -1,4 +1,4 @@
-===== IBKR DIRECT =====
+#IBKR DIRECT
 
 DOMAIN-SUFFIX,ibkr.com.cn
 DOMAIN-SUFFIX,ibllc.com.cn
@@ -6,7 +6,7 @@ DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,ibkr
 DOMAIN-KEYWORD,ibllc
 
-===== IBKR =====
+# IBKR
 
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,interactivebrokers.com.au
 DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
 DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com
 
-===== TOS =====
+# TOS
 
 DOMAIN-SUFFIX,thinkorswim.com
 DOMAIN-SUFFIX,tdameritrade.com
