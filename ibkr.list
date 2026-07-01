@@ -1,31 +1,34 @@
 ===== IBKR DIRECT =====
 
-DOMAIN-SUFFIX,ibkr.com.cn,DIRECT
-DOMAIN-SUFFIX,ibllc.com.cn,DIRECT
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,ibllc
 
 ===== IBKR =====
 
-DOMAIN-SUFFIX,ibkr.com,TRADING
-DOMAIN-SUFFIX,ibllc.com,TRADING
-DOMAIN-SUFFIX,ibkr.com.hk,TRADING
-DOMAIN-SUFFIX,ibkr.com.au,TRADING
-DOMAIN-SUFFIX,ibcdn.com,TRADING
-DOMAIN-SUFFIX,iblink.com,TRADING
-DOMAIN-SUFFIX,interactivebrokers.com,TRADING
-DOMAIN-SUFFIX,interactivebrokers.com.hk,TRADING
-DOMAIN-SUFFIX,interactivebrokers.ca,TRADING
-DOMAIN-SUFFIX,interactivebrokers.ie,TRADING
-DOMAIN-SUFFIX,interactivebrokers.co.uk,TRADING
-DOMAIN-SUFFIX,interactivebrokers.co.in,TRADING
-DOMAIN-SUFFIX,interactivebrokers.co.in,TRADING
-DOMAIN-SUFFIX,interactivebrokers.com.sg,TRADING
-DOMAIN-SUFFIX,interactivebrokers.com.au,TRADING
-DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com,TRADING
-DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com,TRADING
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibkr.com.hk
+DOMAIN-SUFFIX,ibkr.com.au
+DOMAIN-SUFFIX,ibcdn.com
+DOMAIN-SUFFIX,iblink.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
+DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com
 
 ===== TOS =====
 
-DOMAIN-SUFFIX,thinkorswim.com,TRADING
-DOMAIN-SUFFIX,tdameritrade.com,TRADING
-DOMAIN-SUFFIX,schwab.com,TRADING
-HOST,tosmediaserver.schwab.com,TRADING
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,schwab.com
+HOST,tosmediaserver.schwab.com
