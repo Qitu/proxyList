@@ -1,14 +1,14 @@
 #!name=IBKR
 #!desc=Interactive Brokers / Thinkorswim / Schwab rules for Surge
 
-# IBKR China / keywords
+#IBKR DIRECT
+
 DOMAIN-SUFFIX,ibkr.com.cn
 DOMAIN-SUFFIX,ibllc.com.cn
 DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,ibkr
 DOMAIN-KEYWORD,ibllc
-
-# IBKR global
+# IBKR
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com.hk
@@ -25,8 +25,7 @@ DOMAIN-SUFFIX,interactivebrokers.com.sg
 DOMAIN-SUFFIX,interactivebrokers.com.au
 DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
 DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com
-
-# Thinkorswim / Schwab
+# TOS
 DOMAIN-SUFFIX,thinkorswim.com
 DOMAIN-SUFFIX,tdameritrade.com
 DOMAIN-SUFFIX,schwab.com
