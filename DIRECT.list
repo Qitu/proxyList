@@ -15,4 +15,5 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
 
 # 腾讯云
-DOMAIN-SUFFIX,tencentcdb.com,DIRECT
+DOMAIN-SUFFIX,sql.tencentcdb.com,DIRECT
+DOMAIN-SUFFIX,rds.aliyuncs.com,DIRECT
